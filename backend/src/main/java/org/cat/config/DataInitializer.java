@@ -1,10 +1,10 @@
-package org.cat.irere.config;
+package org.cat.config;
 
 import com.github.javafaker.Faker;
-import org.cat.irere.model.Product;
-import org.cat.irere.model.Quantity;
-import org.cat.irere.repository.ProductRepository;
-import org.cat.irere.repository.QuantityRepository;
+import org.cat.model.Product;
+import org.cat.model.Quantity;
+import org.cat.repository.ProductRepository;
+import org.cat.repository.QuantityRepository;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
