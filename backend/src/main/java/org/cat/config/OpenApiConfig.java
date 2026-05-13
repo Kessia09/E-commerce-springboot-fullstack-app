@@ -1,4 +1,4 @@
-package org.cat.irere.config;
+package org.cat.config;
 
 import io.swagger.v3.oas.models.Components;
 import io.swagger.v3.oas.models.OpenAPI;
