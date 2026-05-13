@@ -1,4 +1,4 @@
-package org.cat.irere.model;
+package org.cat.model;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;
