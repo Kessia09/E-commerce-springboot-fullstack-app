@@ -1,10 +1,10 @@
-package org.cat.irere.service.impl;
+package org.cat.service.impl;
 
-import org.cat.irere.dto.ProductDTO;
-import org.cat.irere.model.Product;
-import org.cat.irere.repository.ProductRepository;
-import org.cat.irere.repository.QuantityRepository;
-import org.cat.irere.service.ProductService;
+import org.cat.dto.ProductDTO;
+import org.cat.model.Product;
+import org.cat.repository.ProductRepository;
+import org.cat.repository.QuantityRepository;
+import org.cat.service.ProductService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
