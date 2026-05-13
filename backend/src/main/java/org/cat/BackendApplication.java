@@ -1,4 +1,4 @@
-package org.cat.irere;
+package org.cat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
