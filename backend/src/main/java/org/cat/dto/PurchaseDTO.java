@@ -1,4 +1,4 @@
-package org.cat.irere.dto;
+package org.cat.dto;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
