@@ -1,7 +1,7 @@
-package org.cat.irere.service;
+package org.cat.service;
 
-import org.cat.irere.dto.AddToCartDTO;
-import org.cat.irere.dto.CartItemDTO;
+import org.cat.dto.AddToCartDTO;
+import org.cat.dto.CartItemDTO;
 
 import java.util.List;
 
