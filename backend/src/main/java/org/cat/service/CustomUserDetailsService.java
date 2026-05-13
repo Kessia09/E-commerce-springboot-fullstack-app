@@ -1,7 +1,7 @@
-package org.cat.irere.service;
+package org.cat.service;
 
-import org.cat.irere.model.Customer;
-import org.cat.irere.repository.CustomerRepository;
+import org.cat.model.Customer;
+import org.cat.repository.CustomerRepository;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
