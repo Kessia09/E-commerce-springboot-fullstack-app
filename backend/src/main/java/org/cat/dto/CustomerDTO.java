@@ -1,4 +1,4 @@
-package org.cat.irere.dto;
+package org.cat.dto;
 
 public class CustomerDTO {
     private Long id;
