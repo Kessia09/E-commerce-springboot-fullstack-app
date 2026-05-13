@@ -1,6 +1,6 @@
-package org.cat.irere.service;
+package org.cat.service;
 
-import org.cat.irere.dto.QuantityDTO;
+import org.cat.dto.QuantityDTO;
 
 import java.util.List;
 
