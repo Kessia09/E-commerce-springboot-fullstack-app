@@ -1,14 +1,14 @@
-package org.cat.irere.service.impl;
+package org.cat.service.impl;
 
-import org.cat.irere.dto.AddToCartDTO;
-import org.cat.irere.dto.CartItemDTO;
-import org.cat.irere.model.CartItem;
-import org.cat.irere.model.Product;
-import org.cat.irere.repository.CartItemRepository;
-import org.cat.irere.repository.CustomerRepository;
-import org.cat.irere.repository.ProductRepository;
-import org.cat.irere.service.CartService;
-import org.cat.irere.service.QuantityService;
+import org.cat.dto.AddToCartDTO;
+import org.cat.dto.CartItemDTO;
+import org.cat.model.CartItem;
+import org.cat.model.Product;
+import org.cat.repository.CartItemRepository;
+import org.cat.repository.CustomerRepository;
+import org.cat.repository.ProductRepository;
+import org.cat.service.CartService;
+import org.cat.service.QuantityService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
