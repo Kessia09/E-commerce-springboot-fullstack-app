@@ -1,10 +1,10 @@
-package org.cat.irere.service.impl;
+package org.cat.service.impl;
 
-import org.cat.irere.dto.QuantityDTO;
-import org.cat.irere.model.Quantity;
-import org.cat.irere.repository.ProductRepository;
-import org.cat.irere.repository.QuantityRepository;
-import org.cat.irere.service.QuantityService;
+import org.cat.dto.QuantityDTO;
+import org.cat.model.Quantity;
+import org.cat.repository.ProductRepository;
+import org.cat.repository.QuantityRepository;
+import org.cat.service.QuantityService;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
