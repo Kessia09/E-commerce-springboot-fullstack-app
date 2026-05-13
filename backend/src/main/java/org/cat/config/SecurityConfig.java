@@ -1,8 +1,8 @@
-package org.cat.irere.config;
+package org.cat.config;
 
-import org.cat.irere.security.JwtAuthenticationFilter;
-import org.cat.irere.security.JwtTokenProvider;
-import org.cat.irere.service.CustomUserDetailsService;
+import org.cat.security.JwtAuthenticationFilter;
+import org.cat.security.JwtTokenProvider;
+import org.cat.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
