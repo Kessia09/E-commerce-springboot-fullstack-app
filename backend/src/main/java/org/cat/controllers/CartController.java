@@ -1,10 +1,10 @@
 package org.cat.controllers;
 
 import io.swagger.v3.oas.annotations.tags.Tag;
-import org.cat.irere.dto.AddToCartDTO;
-import org.cat.irere.dto.ApiResponse;
-import org.cat.irere.dto.CartItemDTO;
-import org.cat.irere.service.CartService;
+import org.cat.dto.AddToCartDTO;
+import org.cat.dto.ApiResponse;
+import org.cat.dto.CartItemDTO;
+import org.cat.service.CartService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
