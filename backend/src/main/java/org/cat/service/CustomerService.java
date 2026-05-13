@@ -1,8 +1,8 @@
-package org.cat.irere.service;
+package org.cat.service;
 
-import org.cat.irere.dto.CustomerDTO;
-import org.cat.irere.dto.LoginDTO;
-import org.cat.irere.dto.RegisterDTO;
+import org.cat.dto.CustomerDTO;
+import org.cat.dto.LoginDTO;
+import org.cat.dto.RegisterDTO;
 
 import java.util.Optional;
 
