@@ -1,11 +1,11 @@
-package org.cat.irere.service.impl;
+package org.cat.service.impl;
 
-import org.cat.irere.dto.CustomerDTO;
-import org.cat.irere.dto.LoginDTO;
-import org.cat.irere.dto.RegisterDTO;
-import org.cat.irere.model.Customer;
-import org.cat.irere.repository.CustomerRepository;
-import org.cat.irere.service.CustomerService;
+import org.cat.dto.CustomerDTO;
+import org.cat.dto.LoginDTO;
+import org.cat.dto.RegisterDTO;
+import org.cat.model.Customer;
+import org.cat.repository.CustomerRepository;
+import org.cat.service.CustomerService;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.Authentication;
