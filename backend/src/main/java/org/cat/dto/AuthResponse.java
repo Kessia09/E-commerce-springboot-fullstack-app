@@ -1,4 +1,4 @@
-package org.cat.irere.dto;
+package org.cat.dto;
 
 public class AuthResponse {
     private String token;
