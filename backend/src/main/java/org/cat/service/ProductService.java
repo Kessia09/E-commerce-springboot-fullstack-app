@@ -1,7 +1,7 @@
-package org.cat.irere.service;
+package org.cat.service;
 
-import org.cat.irere.dto.ProductDTO;
-import org.cat.irere.model.Product;
+import org.cat.dto.ProductDTO;
+import org.cat.model.Product;
 
 import java.util.List;
 import java.util.Optional;
