@@ -1,4 +1,4 @@
-package org.cat.irere;
+package org.cat;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
