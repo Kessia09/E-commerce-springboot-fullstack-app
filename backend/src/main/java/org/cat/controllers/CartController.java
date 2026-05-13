@@ -1,4 +1,4 @@
-package org.cat.irere.controllers;
+package org.cat.controllers;
 
 import io.swagger.v3.oas.annotations.tags.Tag;
 import org.cat.irere.dto.AddToCartDTO;
