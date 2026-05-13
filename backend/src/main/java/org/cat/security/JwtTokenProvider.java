@@ -1,4 +1,4 @@
-package org.cat.irere.security;
+package org.cat.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jws;
