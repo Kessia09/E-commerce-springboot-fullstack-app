@@ -1,9 +1,9 @@
-package org.cat.irere.controllers;
+package org.cat.controllers;
 
 import io.swagger.v3.oas.annotations.tags.Tag;
-import org.cat.irere.dto.ApiResponse;
-import org.cat.irere.dto.QuantityDTO;
-import org.cat.irere.service.QuantityService;
+import org.cat.dto.ApiResponse;
+import org.cat.dto.QuantityDTO;
+import org.cat.service.QuantityService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
