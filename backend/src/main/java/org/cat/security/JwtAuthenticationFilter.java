@@ -1,4 +1,4 @@
-package org.cat.irere.security;
+package org.cat.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
